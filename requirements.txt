@@ -1,0 +1,1 @@
+streamlit deep_translator gtts speechrecognition pyaudio
