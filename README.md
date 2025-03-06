@@ -44,7 +44,7 @@ This project is a **Real-Time Multi-Language Speech Translator** built using **S
 ### 1️⃣ Run the Streamlit App
 
 ```bash
-streamlit run translator.py
+streamlit run app.py
 ```
 
 ### 2️⃣ Select Input Mode
