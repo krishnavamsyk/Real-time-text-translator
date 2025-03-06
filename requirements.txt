@@ -1,4 +1,6 @@
-streamlit==1.15.0
+streamlit==1.18.0
 speechrecognition==3.8.1
-deep-translator==1.9.1
+deep-translator==1.8.1
 gtts==2.2.3
+pyaudio==0.2.11
+altair<5
